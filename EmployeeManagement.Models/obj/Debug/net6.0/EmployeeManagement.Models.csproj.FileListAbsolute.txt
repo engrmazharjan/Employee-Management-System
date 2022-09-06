@@ -1,0 +1,12 @@
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.deps.json
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.dll
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\bin\Debug\net6.0\EmployeeManagement.Models.pdb
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.csproj.AssemblyReference.cache
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.AssemblyInfo.cs
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.dll
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\refint\EmployeeManagement.Models.dll
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\EmployeeManagement.Models.pdb
+C:\Users\LogicWorms\Desktop\Blazor\EmployeeManagementSystem\EmployeeManagement.Models\obj\Debug\net6.0\ref\EmployeeManagement.Models.dll
