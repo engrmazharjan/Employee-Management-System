@@ -10,6 +10,6 @@ namespace EmployeeManagement.Models
     {
         Male,
         Female,
-        Other   
+        Other
     }
 }
